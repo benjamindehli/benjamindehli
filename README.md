@@ -1,6 +1,6 @@
 ## Hi, I'm Benjamin
 
-I make music software under the name [Dehli Musikk](https://www.dehlimusikk.no/en/): synthesiser and editor plugins, and sampled instruments made from the keyboards, organs and toys I have in the room. All open source.
+I make music software under the name [Dehli Musikk](https://www.dehlimusikk.no/en/): synthesiser and editor plugins, and sampled instrument plugins made from the keyboards, organs and toys I have in the room. All open source.
 
 <p align="left">
   <a href="https://www.youtube.com/c/benjamindehli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="benjamindehli" height="30" width="40" /></a>
@@ -9,9 +9,9 @@ I make music software under the name [Dehli Musikk](https://www.dehlimusikk.no/e
   <a href="https://linkedin.com/in/benjamindehli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamindehli" height="30" width="40" /></a>
 </p>
 
-### Plugins and apps
+### Synthesisers and editors
 
-| Project | What it is |
+| Project | Description |
 | --- | --- |
 | [Overtonium](https://github.com/benjamindehli/overtonium) | Additive synth laid out as a 32-channel mixer, one sine per harmonic, tuning swept from equal temperament to just. C++, VST3/AU/LV2/standalone |
 | [SidStation ASID](https://github.com/benjamindehli/sidstation-asid) | The Elektron SidStation's three SID voices as three independent DAW instruments, over ASID. C++, VST3/AU/standalone |
@@ -19,7 +19,7 @@ I make music software under the name [Dehli Musikk](https://www.dehlimusikk.no/e
 
 ### Sampled instruments
 
-Decent Sampler libraries with VST3, AU and standalone builds. GPL-3.0.
+VST3, AU and standalone plugins for macOS, each with its own interface. On Windows and Linux they run as Decent Sampler libraries instead. GPL-3.0.
 
 | Project | Sampled from |
 | --- | --- |
@@ -39,4 +39,4 @@ Decent Sampler libraries with VST3, AU and standalone builds. GPL-3.0.
 
 Docs for each live at `benjamindehli.github.io/<repo>`. Demos and downloads: [dehlimusikk.no/en/products](https://www.dehlimusikk.no/en/products/) · [KVR Audio](https://www.kvraudio.com/developer/dehli-musikk) · [store](https://store.dehlimusikk.no/)
 
-Also here: [DecentEditor](https://github.com/benjamindehli/DecentEditor), a visual editor for Decent Sampler presets, and [dehli-musikk](https://github.com/benjamindehli/dehli-musikk), the site all of the above lives on.
+Also here: [dehli-musikk](https://github.com/benjamindehli/dehli-musikk), the site all of the above lives on.
